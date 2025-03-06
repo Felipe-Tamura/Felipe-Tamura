@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Felipe Tamura
 
-<p>Me chamdo Felipe Pereira Tamura, tenho 24 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio.</p>
+<p>Me chamo Felipe Pereira Tamura, tenho 24 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio.</p>
 <p>Sou apaixonado por tecnologia e estou focado em me tornar um desenvolvedor front-end e back-end.</p>
 <p>Atualmente, estou aprendendo React.js e já tenho conhecimentos em HTML, CSS, JavaScript. Além disso, estou explorando conceitos de desenvolvimento web responsivo e integração com APIs.</p>
 <p>Meu objetivo é contribuir para projetos inovadores e continuar crescendo profissionalmente na área de desenvolvimento.</p>
